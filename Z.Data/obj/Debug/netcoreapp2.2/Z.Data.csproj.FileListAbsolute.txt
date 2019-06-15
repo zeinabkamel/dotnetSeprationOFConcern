@@ -1,0 +1,12 @@
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\bin\Debug\netcoreapp2.2\Z.Data.deps.json
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\bin\Debug\netcoreapp2.2\Z.Data.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\bin\Debug\netcoreapp2.2\Z.Data.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\bin\Debug\netcoreapp2.2\Z.Model.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\bin\Debug\netcoreapp2.2\Z.Model.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.csprojAssemblyReference.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.csproj.CoreCompileInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.AssemblyInfoInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.AssemblyInfo.cs
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.csproj.CopyComplete
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.Data\obj\Debug\netcoreapp2.2\Z.Data.pdb

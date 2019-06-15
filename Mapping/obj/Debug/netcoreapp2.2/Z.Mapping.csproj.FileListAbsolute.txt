@@ -1,0 +1,14 @@
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.Mapping.deps.json
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.Mapping.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.Mapping.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.DTO.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.Model.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.Model.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\bin\Debug\netcoreapp2.2\Z.DTO.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.csprojAssemblyReference.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.AssemblyInfoInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.AssemblyInfo.cs
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.csproj.CopyComplete
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Mapping\obj\Debug\netcoreapp2.2\Z.Mapping.pdb

@@ -1,0 +1,14 @@
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\bin\Debug\netcoreapp2.2\TryingToMakeStrucure.deps.json
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\bin\Debug\netcoreapp2.2\TryingToMakeStrucure.runtimeconfig.json
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\bin\Debug\netcoreapp2.2\TryingToMakeStrucure.runtimeconfig.dev.json
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\bin\Debug\netcoreapp2.2\TryingToMakeStrucure.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\bin\Debug\netcoreapp2.2\TryingToMakeStrucure.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.csprojAssemblyReference.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.csproj.CoreCompileInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.RazorAssemblyInfo.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.RazorAssemblyInfo.cs
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.AssemblyInfoInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.AssemblyInfo.cs
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.RazorTargetAssemblyInfo.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\TryingToMakeStrucure\obj\Debug\netcoreapp2.2\TryingToMakeStrucure.pdb

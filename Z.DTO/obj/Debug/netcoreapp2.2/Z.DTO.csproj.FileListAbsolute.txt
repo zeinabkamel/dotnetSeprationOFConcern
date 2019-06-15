@@ -1,0 +1,9 @@
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\bin\Debug\netcoreapp2.2\Z.DTO.deps.json
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\bin\Debug\netcoreapp2.2\Z.DTO.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\bin\Debug\netcoreapp2.2\Z.DTO.pdb
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\obj\Debug\netcoreapp2.2\Z.DTO.csprojAssemblyReference.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\obj\Debug\netcoreapp2.2\Z.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\obj\Debug\netcoreapp2.2\Z.DTO.AssemblyInfoInputs.cache
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\obj\Debug\netcoreapp2.2\Z.DTO.AssemblyInfo.cs
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\obj\Debug\netcoreapp2.2\Z.DTO.dll
+C:\Users\Zozo\source\repos\TryingToMakeStrucure\Z.DTO\obj\Debug\netcoreapp2.2\Z.DTO.pdb
